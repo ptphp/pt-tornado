@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+	<meta charset="utf-8">
+	<title></title>
+	<meta name="keywords" content="" />
+	<meta name="description" content="" />
+	<meta name="author" content="liseor@gmail.com" />
+	<meta name="copyright" content="© " />
+	{% block css %}{% endblock %}	
+</head>
+<body>
+{% include 'common/header.html' %}
+{% block content %}{% endblock %}
+
+{% include 'common/footer.html' %}
+{% block js %}{% endblock %}	
+
+{% block script %}{% endblock %}
+</body>
+</html>
