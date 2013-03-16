@@ -30,6 +30,3 @@ SQLAlchemy报错“2006, MySQL server has gone away”
 http://hi.baidu.com/limpid/item/e37c37ffd12a0d11ff35825d
 
 lucyzhang2009@126.com  lucyzhang19791016
-
-人保财险车险官网直销
-http://www.e-picc.com.cn/
